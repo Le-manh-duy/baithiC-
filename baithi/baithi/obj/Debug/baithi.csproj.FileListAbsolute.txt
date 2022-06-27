@@ -1,0 +1,8 @@
+C:\Users\This PC\source\repos\baithi\baithi\bin\Debug\baithi.exe.config
+C:\Users\This PC\source\repos\baithi\baithi\bin\Debug\baithi.exe
+C:\Users\This PC\source\repos\baithi\baithi\bin\Debug\baithi.pdb
+C:\Users\This PC\source\repos\baithi\baithi\obj\Debug\baithi.csproj.AssemblyReference.cache
+C:\Users\This PC\source\repos\baithi\baithi\obj\Debug\baithi.csproj.SuggestedBindingRedirects.cache
+C:\Users\This PC\source\repos\baithi\baithi\obj\Debug\baithi.csproj.CoreCompileInputs.cache
+C:\Users\This PC\source\repos\baithi\baithi\obj\Debug\baithi.exe
+C:\Users\This PC\source\repos\baithi\baithi\obj\Debug\baithi.pdb
